@@ -1,0 +1,179 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A great victory obtained by the Marquesse of Ormond and the Lord Inchiqueen against the Parliaments forces, with the manner of their surrounding of Dublin, for storming of the city, their taking of Trim Castle, with great store of ordnance, arms and ammunition, 1000 killed, and divers taken prisoners. Also, the declaration of the Irish army; the message and propositions sent to Charles the second; and exceeding strange news from Herefordshire, containing the prophesie of a young infant touching his Highness and the Parliament, delivered in a speech to two mowers in a meadow field, and the manner how it vanished away, after speaking of the words.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85643</idno>
+            <idno type="STC">Wing G1784</idno>
+            <idno type="STC">Thomason E568_16</idno>
+            <idno type="STC">ESTC R206255</idno>
+            <idno type="EEBO-CITATION">99865428</idno>
+            <idno type="PROQUEST">99865428</idno>
+            <idno type="VID">165313</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85643)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165313)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 87:E568[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A great victory obtained by the Marquesse of Ormond and the Lord Inchiqueen against the Parliaments forces, with the manner of their surrounding of Dublin, for storming of the city, their taking of Trim Castle, with great store of ordnance, arms and ammunition, 1000 killed, and divers taken prisoners. Also, the declaration of the Irish army; the message and propositions sent to Charles the second; and exceeding strange news from Herefordshire, containing the prophesie of a young infant touching his Highness and the Parliament, delivered in a speech to two mowers in a meadow field, and the manner how it vanished away, after speaking of the words.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>for R. Williamson,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>August 9. 1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Inchiquin, Murrough O'Brien, --  Earl of, 1614-1674 --  Early works to 1800.</term>
+               <term>Ormonde, James Butler, --  Duke of, 1610-1688 --  Early works to 1800.</term>
+               <term>Charles --  II, --  King of England, 1630-1685 --  Prophecies --  Early works to 1800.</term>
+               <term>Prophecies --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165313:1" rendition="simple:additions"/>
+            <p>A GREAT VICTORY Obtained by the Marqueſſe of ORMOND <hi>AND THE LORD</hi> INCHIQVEEN <hi>AGAINST THE</hi> Parliaments Forces, <hi>WITH</hi> The manner of their ſurrounding of <hi>Dublin,</hi> for ſtorming of the City, their taking of <hi>Trim</hi> Caſtle, with great ſtore of Ordnance, Arms and Ammunition, 1000 killed, and divers taken priſoners.</p>
+            <p>
+               <hi>ALSO,</hi> The Declaration of the Iriſh Army; the Meſſage and Pro<g ref="char:EOLhyphen"/>poſitions ſent to <hi>Charles</hi> the ſecond; and exceeding ſtrange News from <hi>Hereforaſhire</hi> containing the Propheſie of a young Infant touching his Highneſs and the Parliament, delive<g ref="char:EOLhyphen"/>red in a ſpeech to two Mowers in a Meadow field, and the manner how it vaniſhed away, after ſpeaking of the words.</p>
+            <p>Imprinted at <hi>London</hi> for <hi>R. Williamſon,</hi> Auguſt 9. 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:165313:2"/>
+            <pb n="1" facs="tcp:165313:2"/>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>The laſt great and bloudy FIGHT At DUBLIN in IRELAND UPON The advance of the King of <hi>Scots</hi> Army to the Walls of the City, for a ſtorm, with the manner thereof, and the number killed and taken priſoners.</head>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>THe Marq. of <hi>Ormond</hi> (we hear) is reſolved for a ſtorm, and in order thereunto, hath drawn down moſt of his Horſe and Foot within two miles of the City, skaling ladders, and other inſtruments of Warre being in a readineſſe to be put in execution; And by our laſt expreſſe from thence we were advertized, that he had made ſeverall attempts againſt the North ſide of the City,
+<pb n="2" facs="tcp:165313:3"/>ſtormed Patrick Fort, and many other places, but received ſo deſperate a repulſe, that he were forced to quit the place and deſiſt from any further enterpriſing on it, in which con<g ref="char:EOLhyphen"/>flict he loſt about 50 men. Sir <hi>Thomas Armstrong</hi> is alſo very active for his young Soveraign, and maketh many on<g ref="char:EOLhyphen"/>ſets againſt the Out guards, and having a choice and ſelect party drawn forth of ſeverall <hi>Regiments,</hi> he advanced from the Camp within piſtoll ſhot of the walls of <hi>Dublin,</hi> and endeavoured to drive all before him, but Col. Jones made a ſalley, and charged him with ſuch courage and ſucceſſe, that he not only regained what before loſt, but killed and took about 60 of the enemy. During which action, the L. <hi>Inchiquin</hi> playd his Guards with great policy, and by his ſtrong allarum on the South ſide of the City, kept the be<g ref="char:EOLhyphen"/>ſieged in play, whilſt another party diſputed the <hi>Rings-end</hi> who at the laſt became maſters thereof, with the loſſe of 20 men; ſince which time he hath attempted the cutting off the <hi>Mills</hi> neer adjoyning to the City, and as we hear) are reſolved ſuddenly for a finall ſtorm. But that which addes moſt to the propagation of the Work in hand, is the taking of the ſtrong and impregnable Caſtle of <hi>Trius,</hi> with many pieces of Ordnance, Arms and Ammunition, but not with<g ref="char:EOLhyphen"/>out the loſſe of at leaſt 1000 men ſince the firſt befieging thereof.</p>
+                  <closer>
+                     <dateline>
+                        <hi>Bristol</hi> 
+                        <date>7 <hi>August,</hi> 1649.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>Other Letters from Dublin ſay as followeth.</head>
+                  <p>Since the enemies receipt of the intelligence of the Lord Lieutenant <hi>Crumwels</hi> deſignment for this bleeding City, they have ſomewhat awakened us with ſtronger allarms, and (as we hear) have entred into Proteſtation, <hi>to live and die, stand and fall together, and to fight it out to the laſt man,</hi> and that upon receipt of the foreſaid intelligence, <hi>Ormond</hi> called a Councell of Officers, at the head quarters neer Fingles, the
+<pb n="3" facs="tcp:165313:3"/>reſult was, whether they ſhould prepare for a ſtorm, be<g ref="char:EOLhyphen"/>fore his Lordſhips landing, or whether they ſhould begirt the City, ſtreighten other Gariſons, take in what they could and then randezvouz and draw into a Body, and give him battell at his landing: Upon mature deliberation thereon, it was unanimoſly declared by moſt of that Popiſh and Pre<g ref="char:EOLhyphen"/>laticall faction, That if he ſet footing there they wold fight him; in the mean time they would uſe their utmoſt endea<g ref="char:EOLhyphen"/>vours for the reducing of thoſe Garriſons which the Par<g ref="char:EOLhyphen"/>liament had in poſſeſſion.</p>
+                  <p>But the thing that our Souldiery are moſt doubtfull and dubious of, is, that they fear the enemy will not give them a field upon the additionall forces landing, but that they wil rather betake themſelves to the Bogs and Woods.</p>
+                  <p>On Thurſday morning laſt, a party of the Marq. of Ormonds horſe and foot faced our frontier Guards, kee<g ref="char:EOLhyphen"/>ping a great careering up &amp; down neer the City Wals, and making four or five deſperate attempts within Piſtol ſhot of our Line, Spurs, and Sconces, which continued for the ſpace of half an hour; till at the laſt Capt. <hi>Freeman</hi> (Com<g ref="char:EOLhyphen"/>mander in chief of the new Fort) made a ſalley out with a party of horſe and foot, who placed the Muſquetiers in an obſcure trench, for an Ambuſcado; he himſelf being the Coy, for the calling in and enſnaring of the adverſe party; but upon his firſt advance towards them with his horſe, he found it a Work very full of difficulty, by reaſon that they had uſed the like point of policp: However, he reſolved to diſpute the place, and thereupon divided his horſe (being 60 in number) into two parties, he himſelf commanding the one, and Cornet Jackſon the other; Capt, <hi>Freeman</hi> charged the Van of the Enemies Forlorn, Cornet <hi>Tomſon</hi> flanked them, and upon their firſt charge exchanged ground, with the loſſe of three men on both ſides.</p>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <pb n="4" facs="tcp:165313:4"/>
+                  <head>New Propoſitions to the King of <hi>Scotland,</hi>
+                  </head>
+                  <opener>
+                     <salute>May it pleaſe your Majeſty,</salute>
+                  </opener>
+                  <p>VVE are commanded by the Eſtates of Parl. of your Maj. Kingdom of <hi>Stotland,</hi> hum<g ref="char:EOLhyphen"/>bly to repreſent to your Majeſty, that as they were not wanting in giving faithfull and timous coun<g ref="char:EOLhyphen"/>ſell to your Maj. Royal Father, for yreveuting the dangers which were then feared, &amp; have ſince to their deep ſorrow and unexpreſſible grief fallen out: and as they have with all care and faithfulneſſe contributed their utmoſt endeavors for preſerving their late Soveraign, as their Letters &amp; De<g ref="char:EOLhyphen"/>clarations can evidence; ſo they do reſolve to continue the ſame loyal affection and faithfulneſs to your Maj. and ac<g ref="char:EOLhyphen"/>cordingly have acknowledged and proclaimed your Maj. King of Great <hi>Britain, France,</hi> and <hi>Ireland,</hi> with all readi<g ref="char:EOLhyphen"/>neſſe, unanimity, alacrity and ſolemnity; and have proteſted in favours of your Majeſties juſt Right of Succeſſion in the Royall Government of your Kingdoms of <hi>England</hi> and <hi>Ireland,</hi> againſt all Acts done, or to be done to the contra<g ref="char:EOLhyphen"/>ry: As alſo have commanded Us in their name, humbly to offer to your Majeſty, that they conceive it neceſſary for eſtabliſhing of the happy Government of that your Maje<g ref="char:EOLhyphen"/>ſties ancient Kingdom, and for reſtoring your Majeſty to the ſetled and peaceable poſſeſſion of your juſt Right of Government of your other Dominions.</p>
+                  <p>Firſt, That your Majeſty would be pleaſed to aſſure and declare, that you will by your ſolemn Oath under your Hand and Seal allow the Nationall Covenant of <hi>Scotland,</hi> and the ſolemn League and Covenant of <hi>Scotland, England</hi> and <hi>Ireland,</hi> and that your Majeſty will proſecute the ends thereof in your Royall Station.</p>
+                  <p>Secondly, That your Maj. will ratifie and approve all Acts of Parl. enjoyning the ſolemn League and Covenant,
+<pb n="5" facs="tcp:165313:4"/>and eſtabliſhing Presbyterial Government, the Directory of Worſhip, the Confeſſion of Faith, and Catechiſm, in your Maj. Kingdom of Scotland; as they are already ap<g ref="char:EOLhyphen"/>proven by the General Aſſembly of the Kirk, and by the Parl of that kingdom: and that your Maj. will give your Royal aſſent to acts of parl. enjoyning the ſame in the reſt of your Maj. Dominions: and that your <hi>Mai.</hi> will obſerve the ſame in your own practiſe and family, and never make oppoſition thereto, or endeavour any change thereof.</p>
+                  <p>Thirdly, That your <hi>Mai.</hi> will conſent and agree, that all matters Civil be determined by the preſent and ſubſequent parl. of your Kingdom of <hi>Scotland,</hi> and all matters Eccleſi<g ref="char:EOLhyphen"/>aſticall by the enſuing Generall Aſſemblies of that Church rs was formerly condeſcended and agreed to by your <hi>Ma<g ref="char:EOLhyphen"/>ieſties</hi> Royall Father.</p>
+                  <p>Theſe deſires are ſo juſt and neceſſary for the ſecuring of Religion, the peace of that kingdom, and for gaining not only the outward obedience, but alſo the inward affection of all your <hi>Mai.</hi> good people, to your Royal perſon, au<g ref="char:EOLhyphen"/>thority and government, after ſo great diſtractions and tro<g ref="char:EOLhyphen"/>bles, that the granting thereof will ſo far endear your <hi>Mai.</hi> to that Nation, that they will not only receive your <hi>Mai.</hi> with all cheerfulneſſe, and moſt willingly render to you that ſubiection and dutifull obedience which can be expe<g ref="char:EOLhyphen"/>cted from loyall Subiects to their gracious King; but like<g ref="char:EOLhyphen"/>wiſe will contribute their utmoſt endeavours by all neceſ<g ref="char:EOLhyphen"/>ſary and lawfull means, according to the Covenant, and the duty of faithfull and loyall ſubiects, that your <hi>Mai.</hi> may be reſtored to the peaceable poſſeſſion of the Government of your other kingdoms, according to your <hi>Mai.</hi> undoubted Right of ſucceſſion. In order whereunto, we humbly de<g ref="char:EOLhyphen"/>ſire, that your <hi>Mai.</hi> will be pleaſed to give a direct and ſa<g ref="char:EOLhyphen"/>tisfactory anſwer to theſe our moſt juſt and neceſſary de<g ref="char:EOLhyphen"/>ſires;
+<pb n="6" facs="tcp:165313:5"/>in doing whereof, your <hi>Maieſty</hi> will be to theſe affli<g ref="char:EOLhyphen"/>cted kingdoms, like the rain coming down upon the <hi>mowen graſſe,</hi> and as ſhowers that water the earth.</p>
+                  <closer>
+                     <signed>Signed by the Commiſſioners of Parliament.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>There came further intelligence to the parliament, out of Lancaſhire, that one Sunday laſt a Miniſter was appre<g ref="char:EOLhyphen"/>hended, for incerting this enſuing? paſſage in his prayer VVe pray unto thee for thy truths protectour, thy young, ancient Catholick faiths defender, thy Servant our Sove<g ref="char:EOLhyphen"/>raign: defend him in it; preſerve him from it: be good to them that have the tuition of him, that with alacrity and cheerfulneſſe, be may at all times, but eſpecially in the need<g ref="char:EOLhyphen"/>full time of trouble defend and provide for the fatherleſſe and VViddows. Son of God we beſeech thee to heare us, Moreover, that it may pleaſe to thee to ſtrengthen ſuch as do ſtand with him, to comfort and help the weak hearted for him, to raiſe up (if it be poſſible) them that are fallen from him: and finally to beat down Sathan under his and our feet.</p>
+            <p>Letters from the Weſt ſay, That in <hi>Herefordſhire</hi> there was lately found a young Child i<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a green Meadow by the <hi>Mowers</hi> which were cutting do<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the graſſe, and upon the taking of the Infant up, its ſaid, that it uttered theſe expreſ<g ref="char:EOLhyphen"/>ſions, <hi>That in that field ſhould be fought the greateſt battell that ever hapned in England, which would prove fatall to ma<g ref="char:EOLhyphen"/>ny, but proſperous and tryumphant to ſome, &amp;c.</hi> having ſpoken theſe words, the Relator ſaith, that it vaniſhed away ſudden<g ref="char:EOLhyphen"/>ly, no man knowing how, nor which way.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
